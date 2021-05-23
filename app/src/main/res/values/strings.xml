@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Info Android</string>
+
+
+    <string name="btn_iniciar_pantalla">Iniciar Sesion</string>
+    <string name="btn_registrar_pantalla">Registrarse</string>
+
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="btn_registrarse_sesion">Registrarse</string>
+    <string name="btn_cerrar_sesion">Cerrar Sesión</string>
+
+
+    <string name="introduccion_btn">Introducción </string>
+    <string name="noticias_btn">Noticias </string>
+    <string name="tipos_btn">Tips Android</string>
+    <string name="cursos_btn">Cursos Online</string>
+    <string name="libros_btn">Libros y guías gratis</string>
+    <string name="registro_ideas_btn">Registrar ideas</string>
+    <string name="agregar_registro_btn">Agregar registro</string>
+
+    <string name="descripcion_introduccion">Introducción a conceptos basicos de Android</string>
+    <string name="descripcion_noticias">Las últimas noticias sobre Android</string>
+    <string name="descripcion_tipos">Consejos y Tips sobre Android para desarrollo</string>
+    <string name="descripcion_cursos">Novedades en cursos, formación disponible</string>
+    <string name="descripcion_libros">Descarga gratis libros y contenido útil</string>
+    <string name="descripcion_registro_ideas">Registra tus ideas para mejorar la app</string>
+    <string name="descripcion_agregar_ideas">Agregar ideas</string>
+
+    <string name="txt_registro_idea">Nombre idea</string>
+
+
+</resources>
